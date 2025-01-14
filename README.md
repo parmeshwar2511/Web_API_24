@@ -1,2 +1,2 @@
 # Web_API_24
-We use All Dot Net Technology
+To learn About Consume Api with all crud operation perform.
